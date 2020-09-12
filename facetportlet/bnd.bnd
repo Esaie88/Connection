@@ -1,0 +1,4 @@
+Bundle-Name: facetportlet
+Bundle-SymbolicName: facetportlet
+Bundle-Version: 1.0.0
+Export-Package: facetportlet.constants

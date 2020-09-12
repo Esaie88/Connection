@@ -19,7 +19,7 @@ public class RestController {
 	public ResponseEntity<?> getApi() {
 
 		System.out.println("Methode is clalled");
-String URL="http://data.agroportal.lirmm.fr/ontologies";
+String URL="http://data.bioontology.org/metadata/Ontology";
 String API_KEY="7560431d-cc5c-4e02-9f81-c21bc60e8518";
 
 
